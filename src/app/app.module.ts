@@ -4,8 +4,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
 
-import { init } from 'nativescript-advanced-webview'; 
-init();
+// import { init } from 'nativescript-advanced-webview'; 
+// init();
 
 @NgModule({
     bootstrap: [
